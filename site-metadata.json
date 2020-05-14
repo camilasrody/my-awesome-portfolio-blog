@@ -16,7 +16,8 @@
             {
                 "label": "Contato",
                 "url": "/contact/",
-                "type": "icon"
+                "type": "icon",
+                "icon_class": "☎️"
             }
         ]
     }
