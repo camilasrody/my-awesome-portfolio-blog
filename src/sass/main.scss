@@ -6,11 +6,11 @@ $font: (
 
 // Palette.
 $palette: (
-  primary:       #536171,
+  primary:       #ffbd2d,
   secondary:     darken(#536171, 15%),
-  meta:          lighten(#f7ab1e, 40%),
-  border:        lighten(#ffbd2d, 52%),
-  bg:            lighten(#536171, 58%),
+  meta:          darken(#f7ab1e, 40%),
+  border:        darken(#ffbd2d, 52%),
+  bg:            darken(#536171, 58%),
   accent:        #3cb464,
   accent-blue:   #108afb,
   accent-black:  #333b45,
