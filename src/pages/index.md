@@ -1,11 +1,7 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: "Espaço onde coloco ideias, sinteses, reflexões e um pouco sobre técnologias qual trabalho.\nÉ um espaço livre de leitura afim de acrescentar a comunidade de desenvolvimento.\nTodas as abordagens são de teor imparcial e livre para discussão. \U0001F643\n"
 intro_actions:
   - label: Contato
     url: /contact
