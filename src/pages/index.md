@@ -7,7 +7,7 @@ intro_content: >-
   There also exists a dedicated about page where you can write more about
   yourself for those who are interested.
 intro_actions:
-  - label: lorem-ipsum
+  - label: Contato
     url: lorem-ipsum
     type: link
     icon_class: lorem-ipsum
