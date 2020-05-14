@@ -9,5 +9,5 @@ intro_actions:
     icon_class: lorem-ipsum
     new_window: false
 template: home
-excerpt: asd
+excerpt: ''
 ---
