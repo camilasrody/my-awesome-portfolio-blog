@@ -7,8 +7,8 @@ $font: (
 // Palette.
 $palette: (
   primary:       #536171,
-  secondary:     lighten(#536171, 20%),
-  meta:          darken(#ed8936, 40%),
+  secondary:     darken(#536171, 20%),
+  meta:                 (#ed8936, 40%),
   border:        darken(#ed8936, 50%),
   bg:            darken(#ed8936, 50%),
   accent:        #ed8936,
