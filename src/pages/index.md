@@ -7,9 +7,6 @@ intro_content: >-
   There also exists a dedicated about page where you can write more about
   yourself for those who are interested.
 intro_actions:
-  - label: Learn More
-    url: /about
-    type: primary
   - label: Contact
     url: /contact
     type: secondary
