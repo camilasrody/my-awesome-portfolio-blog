@@ -14,4 +14,5 @@ intro_actions:
     url: /contact
     type: secondary
 template: home
+excerpt: asd
 ---
