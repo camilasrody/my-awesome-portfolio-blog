@@ -8,7 +8,7 @@ intro_content: >-
   yourself for those who are interested.
 intro_actions:
   - label: Contato
-    url: lorem-ipsum
+    url: /contact
     type: link
     icon_class: lorem-ipsum
     new_window: false
