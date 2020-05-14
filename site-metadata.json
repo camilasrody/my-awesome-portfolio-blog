@@ -2,7 +2,7 @@
     "title": "Camila Rody Blog",
     "description": "Frontend Software Developer",
     "layout_style": "grid",
-    "palette": "green",
+    "palette": "black",
     "header": {
         "title": "Blog",
         "logo_img": "images/logo.png",
