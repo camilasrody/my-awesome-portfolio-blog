@@ -6,7 +6,12 @@ intro_content: >-
   yourself that people can read on the homepage to get a sense of who you are.
   There also exists a dedicated about page where you can write more about
   yourself for those who are interested.
-intro_actions: []
+intro_actions:
+  - label: lorem-ipsum
+    url: lorem-ipsum
+    type: link
+    icon_class: lorem-ipsum
+    new_window: false
 template: home
 excerpt: asd
 ---
