@@ -11,7 +11,7 @@
                 "label": "Home",
                 "url": "/",
                 "type": "link",
-                "icon_class": "A"
+                "icon_class": ""
             },
             {
                 "label": "About",
