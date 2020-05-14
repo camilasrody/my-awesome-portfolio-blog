@@ -299,12 +299,12 @@ textarea {
   }
 
   &:before {
-    border-top-color: _palette(meta);
+    border-top-color: orange;
     margin-top: .125em;
   }
 
   &:after {
-    border-bottom-color: _palette(meta);
+    border-bottom-color: orange;
     margin-top: -.75em;
   }
 }

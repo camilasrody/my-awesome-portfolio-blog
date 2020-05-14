@@ -77,15 +77,15 @@
   input[type="reset"],
   .button {
     background: _palette(accent-blue);
-    border-color: _palette(accent-blue);
+    border-color: orange;
     color: #fff;
 
     &:hover,
     &:focus,
     &:active {
       background: 0;
-      border-color: _palette(accent-blue);
-      color: _palette(accent-blue);
+      border-color: orange;
+      color: orange);
     }
   }
 
