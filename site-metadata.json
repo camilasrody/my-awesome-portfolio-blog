@@ -1,7 +1,7 @@
 {
     "title": "Camila Rody Blog",
     "description": "Frontend Software Developer",
-    "layout_style": "grid",
+    "layout_style": "list",
     "palette": "black",
     "header": {
         "title": "Blog",
