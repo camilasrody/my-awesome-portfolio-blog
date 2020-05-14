@@ -10,7 +10,8 @@
             {
                 "label": "Home",
                 "url": "/",
-                "type": "link"
+                "type": "link",
+                "icon_class": "A"
             },
             {
                 "label": "About",
