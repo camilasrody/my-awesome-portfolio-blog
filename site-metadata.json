@@ -5,7 +5,6 @@
     "palette": "black",
     "header": {
         "title": "Blog",
-        "logo_img": "images/logo.png",
         "has_nav": true,
         "nav_links": [
             {
